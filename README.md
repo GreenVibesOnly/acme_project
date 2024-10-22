@@ -22,6 +22,8 @@
 - Python
 - Django
 - Djangorestframework
+- HTML
+- Bootstrap
 - SQLite3
 
 
