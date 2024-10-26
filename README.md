@@ -64,7 +64,7 @@ python acme_project/manage.py migrate
 
 Запустить сервер django:
 ```
-python3 blogicum/manage.py runserver
+python3 acme_project/manage.py runserver
 ```
 
 Проект будет доступен по адресу: http://127.0.0.1:8000/
